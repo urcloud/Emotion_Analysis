@@ -1,0 +1,4 @@
+﻿loss_name,best_epoch,best_val_macro_f1,training_minutes,checkpoint_path,learning_rate,max_length,batch_size,grad_accum_steps,focal_gamma
+focal,3,0.9182996064326455,27.07796537254993,results/optimization/loss_comparison/focal/best.pt,2e-05,128,16,4,2.0
+weighted_ce,3,0.9182477146312875,26.688134027949975,results/optimization/loss_comparison/weighted_ce/best.pt,2e-05,128,16,4,
+ce,1,0.9104471574765517,28.289895708316667,results/optimization/loss_comparison/ce/best.pt,2e-05,128,16,4,

@@ -1,0 +1,2 @@
+model,model_name,best_epoch,best_val_macro_f1,test_loss,accuracy,macro_precision,macro_recall,macro_f1,weighted_precision,weighted_recall,weighted_f1,training_time_sec,inference_time_sec,total_parameters,trainable_parameters,max_length,learning_rate,batch_size,gradient_accumulation_steps,epochs
+DistilBERT,distilbert/distilbert-base-uncased,2,0.905314985315344,0.08820139626588262,0.9424527580139239,0.9349501873195267,0.88704812262352,0.9040361457311072,0.9463477112217574,0.9424527580139239,0.9408593360098328,965.155407254,36.51358271799995,66958086,66958086,128,2e-05,16,4,3

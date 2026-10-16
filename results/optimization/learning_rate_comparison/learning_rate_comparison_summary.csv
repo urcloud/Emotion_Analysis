@@ -1,0 +1,4 @@
+learning_rate,best_epoch,best_validation_macro_f1,training_minutes,output_dir
+2e-05,3,0.9183192844677577,26.60443854811674,results/optimization/learning_rate_comparison/lr_2e-05
+1e-05,3,0.9181424166796193,27.88317317631663,results/optimization/learning_rate_comparison/lr_1e-05
+3e-05,3,0.9180529160646032,26.29603548983347,results/optimization/learning_rate_comparison/lr_3e-05

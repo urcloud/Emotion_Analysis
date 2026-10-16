@@ -1,0 +1,121 @@
+﻿case_id,text,true_label,saved_predicted_label,model_predicted_label,model_confidence,case_type,token_position,token,attention_score
+1,i feel most passionate about that arouse my emotions seem to be the things i need to learn something about my emotion tells me there is a need to grow in some direction,1,2,2,0.6145631074905396,misclassified,25,me,0.0971762090921402
+1,i feel most passionate about that arouse my emotions seem to be the things i need to learn something about my emotion tells me there is a need to grow in some direction,1,2,2,0.6145631074905396,misclassified,30,to,0.09346295893192291
+1,i feel most passionate about that arouse my emotions seem to be the things i need to learn something about my emotion tells me there is a need to grow in some direction,1,2,2,0.6145631074905396,misclassified,22,my,0.08467960357666016
+1,i feel most passionate about that arouse my emotions seem to be the things i need to learn something about my emotion tells me there is a need to grow in some direction,1,2,2,0.6145631074905396,misclassified,18,to,0.07126127183437347
+1,i feel most passionate about that arouse my emotions seem to be the things i need to learn something about my emotion tells me there is a need to grow in some direction,1,2,2,0.6145631074905396,misclassified,32,in,0.06875699758529663
+1,i feel most passionate about that arouse my emotions seem to be the things i need to learn something about my emotion tells me there is a need to grow in some direction,1,2,2,0.6145631074905396,misclassified,4,passionate,0.03624656796455383
+1,i feel most passionate about that arouse my emotions seem to be the things i need to learn something about my emotion tells me there is a need to grow in some direction,1,2,2,0.6145631074905396,misclassified,2,feel,0.026898933574557304
+1,i feel most passionate about that arouse my emotions seem to be the things i need to learn something about my emotion tells me there is a need to grow in some direction,1,2,2,0.6145631074905396,misclassified,1,i,0.02361680381000042
+1,i feel most passionate about that arouse my emotions seem to be the things i need to learn something about my emotion tells me there is a need to grow in some direction,1,2,2,0.6145631074905396,misclassified,3,most,0.023194676265120506
+1,i feel most passionate about that arouse my emotions seem to be the things i need to learn something about my emotion tells me there is a need to grow in some direction,1,2,2,0.6145631074905396,misclassified,9,my,0.018938660621643066
+2,i do realize is that i feel all of this stress and pressure and these inadequacies but yet and still maybe somebody has glanced at my facebook page and admired my successes,1,2,2,0.6185027360916138,misclassified,33,admired,0.03006201609969139
+2,i do realize is that i feel all of this stress and pressure and these inadequacies but yet and still maybe somebody has glanced at my facebook page and admired my successes,1,2,2,0.6185027360916138,misclassified,20,but,0.02901444397866726
+2,i do realize is that i feel all of this stress and pressure and these inadequacies but yet and still maybe somebody has glanced at my facebook page and admired my successes,1,2,2,0.6185027360916138,misclassified,32,and,0.026541728526353836
+2,i do realize is that i feel all of this stress and pressure and these inadequacies but yet and still maybe somebody has glanced at my facebook page and admired my successes,1,2,2,0.6185027360916138,misclassified,26,has,0.026482898741960526
+2,i do realize is that i feel all of this stress and pressure and these inadequacies but yet and still maybe somebody has glanced at my facebook page and admired my successes,1,2,2,0.6185027360916138,misclassified,7,feel,0.02622384950518608
+2,i do realize is that i feel all of this stress and pressure and these inadequacies but yet and still maybe somebody has glanced at my facebook page and admired my successes,1,2,2,0.6185027360916138,misclassified,25,somebody,0.02580433338880539
+2,i do realize is that i feel all of this stress and pressure and these inadequacies but yet and still maybe somebody has glanced at my facebook page and admired my successes,1,2,2,0.6185027360916138,misclassified,21,yet,0.024195514619350433
+2,i do realize is that i feel all of this stress and pressure and these inadequacies but yet and still maybe somebody has glanced at my facebook page and admired my successes,1,2,2,0.6185027360916138,misclassified,24,maybe,0.022496823221445084
+2,i do realize is that i feel all of this stress and pressure and these inadequacies but yet and still maybe somebody has glanced at my facebook page and admired my successes,1,2,2,0.6185027360916138,misclassified,23,still,0.021976813673973083
+2,i do realize is that i feel all of this stress and pressure and these inadequacies but yet and still maybe somebody has glanced at my facebook page and admired my successes,1,2,2,0.6185027360916138,misclassified,10,this,0.02181379869580269
+3,i started feeling a bit strange almost as soon as i came back to it,4,5,5,0.5798232555389404,misclassified,6,strange,0.15479440987110138
+3,i started feeling a bit strange almost as soon as i came back to it,4,5,5,0.5798232555389404,misclassified,3,feeling,0.05625198036432266
+3,i started feeling a bit strange almost as soon as i came back to it,4,5,5,0.5798232555389404,misclassified,4,a,0.05479590222239494
+3,i started feeling a bit strange almost as soon as i came back to it,4,5,5,0.5798232555389404,misclassified,5,bit,0.052344582974910736
+3,i started feeling a bit strange almost as soon as i came back to it,4,5,5,0.5798232555389404,misclassified,1,i,0.04254120588302612
+3,i started feeling a bit strange almost as soon as i came back to it,4,5,5,0.5798232555389404,misclassified,7,almost,0.042061697691679
+3,i started feeling a bit strange almost as soon as i came back to it,4,5,5,0.5798232555389404,misclassified,11,i,0.04088066890835762
+3,i started feeling a bit strange almost as soon as i came back to it,4,5,5,0.5798232555389404,misclassified,9,soon,0.03890889883041382
+3,i started feeling a bit strange almost as soon as i came back to it,4,5,5,0.5798232555389404,misclassified,15,it,0.03725084289908409
+3,i started feeling a bit strange almost as soon as i came back to it,4,5,5,0.5798232555389404,misclassified,12,came,0.03418489173054695
+4,i feel like my prayers have all been some variation of lord life on earth can be so weird,4,5,5,0.5823653936386108,misclassified,19,weird,0.09829261898994446
+4,i feel like my prayers have all been some variation of lord life on earth can be so weird,4,5,5,0.5823653936386108,misclassified,2,feel,0.0498434454202652
+4,i feel like my prayers have all been some variation of lord life on earth can be so weird,4,5,5,0.5823653936386108,misclassified,18,so,0.04892400652170181
+4,i feel like my prayers have all been some variation of lord life on earth can be so weird,4,5,5,0.5823653936386108,misclassified,3,like,0.04661891609430313
+4,i feel like my prayers have all been some variation of lord life on earth can be so weird,4,5,5,0.5823653936386108,misclassified,8,been,0.04513511061668396
+4,i feel like my prayers have all been some variation of lord life on earth can be so weird,4,5,5,0.5823653936386108,misclassified,17,be,0.042306385934352875
+4,i feel like my prayers have all been some variation of lord life on earth can be so weird,4,5,5,0.5823653936386108,misclassified,6,have,0.03997255861759186
+4,i feel like my prayers have all been some variation of lord life on earth can be so weird,4,5,5,0.5823653936386108,misclassified,16,can,0.037446778267621994
+4,i feel like my prayers have all been some variation of lord life on earth can be so weird,4,5,5,0.5823653936386108,misclassified,9,some,0.03473292291164398
+4,i feel like my prayers have all been some variation of lord life on earth can be so weird,4,5,5,0.5823653936386108,misclassified,11,of,0.03365816920995712
+5,some colleagues decided to go out on a saturday not inviting me to decide either the place nor the time,0,3,3,0.8689344525337219,misclassified,1,some,0.2362770289182663
+5,some colleagues decided to go out on a saturday not inviting me to decide either the place nor the time,0,3,3,0.8689344525337219,misclassified,3,decided,0.20159569382667542
+5,some colleagues decided to go out on a saturday not inviting me to decide either the place nor the time,0,3,3,0.8689344525337219,misclassified,10,not,0.05788592994213104
+5,some colleagues decided to go out on a saturday not inviting me to decide either the place nor the time,0,3,3,0.8689344525337219,misclassified,4,to,0.05635831877589226
+5,some colleagues decided to go out on a saturday not inviting me to decide either the place nor the time,0,3,3,0.8689344525337219,misclassified,2,colleagues,0.056182920932769775
+5,some colleagues decided to go out on a saturday not inviting me to decide either the place nor the time,0,3,3,0.8689344525337219,misclassified,16,the,0.04358496889472008
+5,some colleagues decided to go out on a saturday not inviting me to decide either the place nor the time,0,3,3,0.8689344525337219,misclassified,19,the,0.04232323169708252
+5,some colleagues decided to go out on a saturday not inviting me to decide either the place nor the time,0,3,3,0.8689344525337219,misclassified,5,go,0.03323180228471756
+5,some colleagues decided to go out on a saturday not inviting me to decide either the place nor the time,0,3,3,0.8689344525337219,misclassified,12,me,0.029619699344038963
+5,some colleagues decided to go out on a saturday not inviting me to decide either the place nor the time,0,3,3,0.8689344525337219,misclassified,7,on,0.02195267379283905
+6,im feeling stressed out overwhelmed unloved or angry just reading about how others practice self care or new ideas for practicing self care can calm me down and remind me that i can practice self care anytime,0,3,3,0.5630252361297607,misclassified,3,stressed,0.09564924240112305
+6,im feeling stressed out overwhelmed unloved or angry just reading about how others practice self care or new ideas for practicing self care can calm me down and remind me that i can practice self care anytime,0,3,3,0.5630252361297607,misclassified,32,me,0.08292516320943832
+6,im feeling stressed out overwhelmed unloved or angry just reading about how others practice self care or new ideas for practicing self care can calm me down and remind me that i can practice self care anytime,0,3,3,0.5630252361297607,misclassified,34,i,0.08224735409021378
+6,im feeling stressed out overwhelmed unloved or angry just reading about how others practice self care or new ideas for practicing self care can calm me down and remind me that i can practice self care anytime,0,3,3,0.5630252361297607,misclassified,33,that,0.08181854337453842
+6,im feeling stressed out overwhelmed unloved or angry just reading about how others practice self care or new ideas for practicing self care can calm me down and remind me that i can practice self care anytime,0,3,3,0.5630252361297607,misclassified,28,me,0.07311169803142548
+6,im feeling stressed out overwhelmed unloved or angry just reading about how others practice self care or new ideas for practicing self care can calm me down and remind me that i can practice self care anytime,0,3,3,0.5630252361297607,misclassified,35,can,0.058532219380140305
+6,im feeling stressed out overwhelmed unloved or angry just reading about how others practice self care or new ideas for practicing self care can calm me down and remind me that i can practice self care anytime,0,3,3,0.5630252361297607,misclassified,2,feeling,0.038578473031520844
+6,im feeling stressed out overwhelmed unloved or angry just reading about how others practice self care or new ideas for practicing self care can calm me down and remind me that i can practice self care anytime,0,3,3,0.5630252361297607,misclassified,4,out,0.027932092547416687
+6,im feeling stressed out overwhelmed unloved or angry just reading about how others practice self care or new ideas for practicing self care can calm me down and remind me that i can practice self care anytime,0,3,3,0.5630252361297607,misclassified,1,im,0.02780832350254059
+6,im feeling stressed out overwhelmed unloved or angry just reading about how others practice self care or new ideas for practicing self care can calm me down and remind me that i can practice self care anytime,0,3,3,0.5630252361297607,misclassified,8,##ed,0.022118372842669487
+7,i have no real clear memories of those years no strong feelings of happiness no desire of falling in love and no emotional experiences at all,0,0,0,0.9675154089927673,correct,23,emotional,0.10415481775999069
+7,i have no real clear memories of those years no strong feelings of happiness no desire of falling in love and no emotional experiences at all,0,0,0,0.9675154089927673,correct,12,feelings,0.058554768562316895
+7,i have no real clear memories of those years no strong feelings of happiness no desire of falling in love and no emotional experiences at all,0,0,0,0.9675154089927673,correct,21,and,0.05209995433688164
+7,i have no real clear memories of those years no strong feelings of happiness no desire of falling in love and no emotional experiences at all,0,0,0,0.9675154089927673,correct,22,no,0.0478864423930645
+7,i have no real clear memories of those years no strong feelings of happiness no desire of falling in love and no emotional experiences at all,0,0,0,0.9675154089927673,correct,19,in,0.03493567556142807
+7,i have no real clear memories of those years no strong feelings of happiness no desire of falling in love and no emotional experiences at all,0,0,0,0.9675154089927673,correct,16,desire,0.03463291376829147
+7,i have no real clear memories of those years no strong feelings of happiness no desire of falling in love and no emotional experiences at all,0,0,0,0.9675154089927673,correct,17,of,0.032037608325481415
+7,i have no real clear memories of those years no strong feelings of happiness no desire of falling in love and no emotional experiences at all,0,0,0,0.9675154089927673,correct,18,falling,0.030556440353393555
+7,i have no real clear memories of those years no strong feelings of happiness no desire of falling in love and no emotional experiences at all,0,0,0,0.9675154089927673,correct,13,of,0.029138728976249695
+7,i have no real clear memories of those years no strong feelings of happiness no desire of falling in love and no emotional experiences at all,0,0,0,0.9675154089927673,correct,20,love,0.028415299952030182
+8,i am feeling fine but sometimes i get little bit the feelings what other supplements i can take to avoid these feelings,1,1,1,0.9827553629875183,correct,4,fine,0.20660215616226196
+8,i am feeling fine but sometimes i get little bit the feelings what other supplements i can take to avoid these feelings,1,1,1,0.9827553629875183,correct,3,feeling,0.069881871342659
+8,i am feeling fine but sometimes i get little bit the feelings what other supplements i can take to avoid these feelings,1,1,1,0.9827553629875183,correct,5,but,0.04665172100067139
+8,i am feeling fine but sometimes i get little bit the feelings what other supplements i can take to avoid these feelings,1,1,1,0.9827553629875183,correct,7,i,0.03206143528223038
+8,i am feeling fine but sometimes i get little bit the feelings what other supplements i can take to avoid these feelings,1,1,1,0.9827553629875183,correct,1,i,0.03157263621687889
+8,i am feeling fine but sometimes i get little bit the feelings what other supplements i can take to avoid these feelings,1,1,1,0.9827553629875183,correct,2,am,0.031097501516342163
+8,i am feeling fine but sometimes i get little bit the feelings what other supplements i can take to avoid these feelings,1,1,1,0.9827553629875183,correct,12,feelings,0.028239130973815918
+8,i am feeling fine but sometimes i get little bit the feelings what other supplements i can take to avoid these feelings,1,1,1,0.9827553629875183,correct,16,i,0.026269137859344482
+8,i am feeling fine but sometimes i get little bit the feelings what other supplements i can take to avoid these feelings,1,1,1,0.9827553629875183,correct,22,feelings,0.024534983560442924
+8,i am feeling fine but sometimes i get little bit the feelings what other supplements i can take to avoid these feelings,1,1,1,0.9827553629875183,correct,6,sometimes,0.024295490235090256
+9,i know i m not there but if i think about michael for too long and allow myself to feel his tender love for me once again,2,2,2,0.9858339428901672,correct,22,tender,0.1843383014202118
+9,i know i m not there but if i think about michael for too long and allow myself to feel his tender love for me once again,2,2,2,0.9858339428901672,correct,20,feel,0.08170794695615768
+9,i know i m not there but if i think about michael for too long and allow myself to feel his tender love for me once again,2,2,2,0.9858339428901672,correct,21,his,0.053138963878154755
+9,i know i m not there but if i think about michael for too long and allow myself to feel his tender love for me once again,2,2,2,0.9858339428901672,correct,27,again,0.04826933890581131
+9,i know i m not there but if i think about michael for too long and allow myself to feel his tender love for me once again,2,2,2,0.9858339428901672,correct,25,me,0.03957027196884155
+9,i know i m not there but if i think about michael for too long and allow myself to feel his tender love for me once again,2,2,2,0.9858339428901672,correct,24,for,0.03852308541536331
+9,i know i m not there but if i think about michael for too long and allow myself to feel his tender love for me once again,2,2,2,0.9858339428901672,correct,26,once,0.034514278173446655
+9,i know i m not there but if i think about michael for too long and allow myself to feel his tender love for me once again,2,2,2,0.9858339428901672,correct,18,myself,0.03328593820333481
+9,i know i m not there but if i think about michael for too long and allow myself to feel his tender love for me once again,2,2,2,0.9858339428901672,correct,23,love,0.030883677303791046
+9,i know i m not there but if i think about michael for too long and allow myself to feel his tender love for me once again,2,2,2,0.9858339428901672,correct,1,i,0.028069011867046356
+10,i am feeling resentful and pessimistic instead,3,3,3,0.9917038679122925,correct,2,am,0.09519384801387787
+10,i am feeling resentful and pessimistic instead,3,3,3,0.9917038679122925,correct,3,feeling,0.08800985664129257
+10,i am feeling resentful and pessimistic instead,3,3,3,0.9917038679122925,correct,1,i,0.0840843915939331
+10,i am feeling resentful and pessimistic instead,3,3,3,0.9917038679122925,correct,5,##ent,0.08014754951000214
+10,i am feeling resentful and pessimistic instead,3,3,3,0.9917038679122925,correct,6,##ful,0.07690368592739105
+10,i am feeling resentful and pessimistic instead,3,3,3,0.9917038679122925,correct,4,res,0.0593985840678215
+10,i am feeling resentful and pessimistic instead,3,3,3,0.9917038679122925,correct,7,and,0.04035184532403946
+10,i am feeling resentful and pessimistic instead,3,3,3,0.9917038679122925,correct,11,##ic,0.037633754312992096
+10,i am feeling resentful and pessimistic instead,3,3,3,0.9917038679122925,correct,10,##mist,0.036104027181863785
+10,i am feeling resentful and pessimistic instead,3,3,3,0.9917038679122925,correct,9,##ssi,0.02731822058558464
+11,i am really not expecting it somehow it made me feel shy but then it s been a while part,4,4,4,0.9870376586914062,correct,12,shy,0.21487820148468018
+11,i am really not expecting it somehow it made me feel shy but then it s been a while part,4,4,4,0.9870376586914062,correct,11,feel,0.08963333815336227
+11,i am really not expecting it somehow it made me feel shy but then it s been a while part,4,4,4,0.9870376586914062,correct,13,but,0.06542660295963287
+11,i am really not expecting it somehow it made me feel shy but then it s been a while part,4,4,4,0.9870376586914062,correct,14,then,0.05001048371195793
+11,i am really not expecting it somehow it made me feel shy but then it s been a while part,4,4,4,0.9870376586914062,correct,10,me,0.04480363056063652
+11,i am really not expecting it somehow it made me feel shy but then it s been a while part,4,4,4,0.9870376586914062,correct,16,s,0.03815324604511261
+11,i am really not expecting it somehow it made me feel shy but then it s been a while part,4,4,4,0.9870376586914062,correct,15,it,0.028701743111014366
+11,i am really not expecting it somehow it made me feel shy but then it s been a while part,4,4,4,0.9870376586914062,correct,1,i,0.025070462375879288
+11,i am really not expecting it somehow it made me feel shy but then it s been a while part,4,4,4,0.9870376586914062,correct,9,made,0.02426166459918022
+11,i am really not expecting it somehow it made me feel shy but then it s been a while part,4,4,4,0.9870376586914062,correct,8,it,0.023646153509616852
+12,i could get fucking stuffed in fucking chocolate without feeling weird and fat do you have troubles sleeping at night,5,5,5,0.5789523720741272,correct,11,weird,0.18146300315856934
+12,i could get fucking stuffed in fucking chocolate without feeling weird and fat do you have troubles sleeping at night,5,5,5,0.5789523720741272,correct,10,feeling,0.08078495413064957
+12,i could get fucking stuffed in fucking chocolate without feeling weird and fat do you have troubles sleeping at night,5,5,5,0.5789523720741272,correct,12,and,0.06524614989757538
+12,i could get fucking stuffed in fucking chocolate without feeling weird and fat do you have troubles sleeping at night,5,5,5,0.5789523720741272,correct,14,do,0.05001699924468994
+12,i could get fucking stuffed in fucking chocolate without feeling weird and fat do you have troubles sleeping at night,5,5,5,0.5789523720741272,correct,15,you,0.04884648323059082
+12,i could get fucking stuffed in fucking chocolate without feeling weird and fat do you have troubles sleeping at night,5,5,5,0.5789523720741272,correct,13,fat,0.04445725306868553
+12,i could get fucking stuffed in fucking chocolate without feeling weird and fat do you have troubles sleeping at night,5,5,5,0.5789523720741272,correct,16,have,0.04291564226150513
+12,i could get fucking stuffed in fucking chocolate without feeling weird and fat do you have troubles sleeping at night,5,5,5,0.5789523720741272,correct,19,at,0.04187975451350212
+12,i could get fucking stuffed in fucking chocolate without feeling weird and fat do you have troubles sleeping at night,5,5,5,0.5789523720741272,correct,1,i,0.023831263184547424
+12,i could get fucking stuffed in fucking chocolate without feeling weird and fat do you have troubles sleeping at night,5,5,5,0.5789523720741272,correct,18,sleeping,0.01927819848060608

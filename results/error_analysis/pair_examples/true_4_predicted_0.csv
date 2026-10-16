@@ -1,0 +1,12 @@
+text,true_label,true_class,predicted_label,predicted_class,correct,confidence,top2_margin,prediction_entropy,prob_label_0,prob_label_1,prob_label_2,prob_label_3,prob_label_4,prob_label_5
+when i was just to be divorced,4,label_4,0,label_0,False,0.8946625,0.8493521,0.47260943,0.8946625,0.031918783,0.004102846,0.020013316,0.045310393,0.0039921785
+when the relationship with my first girlfriend broke up and i realized it too late,4,label_4,0,label_0,False,0.8787279,0.8204289,0.514096,0.8787279,0.022641486,0.0032857934,0.03491405,0.058298986,0.0021318516
+when a good friend of me told me one evening that she didnt want to live anymore,4,label_4,0,label_0,False,0.78149015,0.57642823,0.5901429,0.78149015,0.0065756305,0.0011635049,0.2050619,0.0049878415,0.00072102697
+going to a disco by myself to wait for some friends we had separated and hadnt planned where to meet i wasnt sure if they were even going to this place so i felt very conscious of being alone,4,label_4,0,label_0,False,0.75690305,0.550381,0.69418234,0.75690305,0.024352893,0.0039102845,0.0048474553,0.20652203,0.00346432
+disappointment over a friend,4,label_4,0,label_0,False,0.7250678,0.47054505,0.6796872,0.7250678,0.014104682,0.0018113595,0.25452274,0.003413939,0.0010795017
+my mother,4,label_4,0,label_0,False,0.68903804,0.4683777,0.8967647,0.68903804,0.042475164,0.0073756725,0.22066034,0.038910843,0.0015399974
+when i could not find my year old daughter i ran and looked for her everywhere and could not find her i finally found her,4,label_4,0,label_0,False,0.57272506,0.27385312,1.0513686,0.57272506,0.041787945,0.0024243467,0.08036177,0.29887193,0.0038289602
+when my boyfriend was leaving to go home one night,4,label_4,0,label_0,False,0.5559587,0.3219263,1.0496116,0.5559587,0.009990664,0.0010649007,0.2340324,0.19746034,0.0014929769
+when i did not get the compound which is known,4,label_4,0,label_0,False,0.4972993,0.06099817,0.93681914,0.4972993,0.014744668,0.0013380633,0.43630114,0.048999462,0.0013173186
+i experienced this feeling when the doctors found a nodule in one of my mothers breasts it turned out to be an occlusion resulting from continious sucking but for a few days i was not in my reason,4,label_4,0,label_0,False,0.43149066,0.09903595,1.3427905,0.43149066,0.3324547,0.04337497,0.09909257,0.08566853,0.007918478
+finding out the great difference between china and the west in science,4,label_4,0,label_0,False,0.36849824,0.003937274,1.3110164,0.36849824,0.09505498,0.0042650397,0.36456096,0.16067085,0.0069499384

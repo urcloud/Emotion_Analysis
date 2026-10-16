@@ -1,0 +1,2 @@
+text,true_label,true_class,predicted_label,predicted_class,correct,confidence,top2_margin,prediction_entropy,prob_label_0,prob_label_1,prob_label_2,prob_label_3,prob_label_4,prob_label_5
+i do feel so guilty so slutty,2,label_2,0,label_0,False,0.962614,0.9331742,0.18946087,0.962614,0.0030340152,0.0019608212,0.029439809,0.0011800432,0.0017714545

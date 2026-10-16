@@ -1,0 +1,3 @@
+experiment,train_samples,best_epoch,best_val_macro_f1,best_val_accuracy,best_val_macro_precision,best_val_macro_recall,best_val_weighted_f1,best_val_loss,total_training_time_min,mean_epoch_time_min,best_checkpoint
+Original Training Data,305345,3,0.9182259416573123,0.9429702546543977,0.892081537251404,0.9565990473413732,0.9448228895777273,0.029879964204866886,25.79997058312098,8.52253986729516,results/augmentation/wordnet_comparison/baseline/best_model.safetensors
+Original + WordNet Augmentation,364874,3,0.9174957654482024,0.9423129834000795,0.8912121402640633,0.9561854475698318,0.9442003663246711,0.030643658477576628,30.97817272345225,10.223451379934948,results/augmentation/wordnet_comparison/wordnet_augmented/best_model.safetensors

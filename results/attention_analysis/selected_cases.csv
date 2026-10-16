@@ -1,0 +1,13 @@
+﻿case_id,text,true_label,saved_predicted_label,case_type
+1,i feel most passionate about that arouse my emotions seem to be the things i need to learn something about my emotion tells me there is a need to grow in some direction,1,2,misclassified
+2,i do realize is that i feel all of this stress and pressure and these inadequacies but yet and still maybe somebody has glanced at my facebook page and admired my successes,1,2,misclassified
+3,i started feeling a bit strange almost as soon as i came back to it,4,5,misclassified
+4,i feel like my prayers have all been some variation of lord life on earth can be so weird,4,5,misclassified
+5,some colleagues decided to go out on a saturday not inviting me to decide either the place nor the time,0,3,misclassified
+6,im feeling stressed out overwhelmed unloved or angry just reading about how others practice self care or new ideas for practicing self care can calm me down and remind me that i can practice self care anytime,0,3,misclassified
+7,i have no real clear memories of those years no strong feelings of happiness no desire of falling in love and no emotional experiences at all,0,0,correct
+8,i am feeling fine but sometimes i get little bit the feelings what other supplements i can take to avoid these feelings,1,1,correct
+9,i know i m not there but if i think about michael for too long and allow myself to feel his tender love for me once again,2,2,correct
+10,i am feeling resentful and pessimistic instead,3,3,correct
+11,i am really not expecting it somehow it made me feel shy but then it s been a while part,4,4,correct
+12,i could get fucking stuffed in fucking chocolate without feeling weird and fat do you have troubles sleeping at night,5,5,correct

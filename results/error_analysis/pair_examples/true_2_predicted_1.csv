@@ -1,0 +1,2 @@
+text,true_label,true_class,predicted_label,predicted_class,correct,confidence,top2_margin,prediction_entropy,prob_label_0,prob_label_1,prob_label_2,prob_label_3,prob_label_4,prob_label_5
+i would feel better that feeling would go away and i would just have fond memories,2,label_2,1,label_1,False,0.98166317,0.9727756,0.11653604,0.0027505665,0.98166317,0.008887612,0.0037157778,0.0012810072,0.0017020381

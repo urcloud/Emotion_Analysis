@@ -1,0 +1,10 @@
+text,true_label,true_class,predicted_label,predicted_class,correct,confidence,top2_margin,prediction_entropy,prob_label_0,prob_label_1,prob_label_2,prob_label_3,prob_label_4,prob_label_5
+this feeling i sensed quite recently it was arisen by the terrific thought that i might lose the man i loved,4,label_4,1,label_1,False,0.9790315,0.9723961,0.134647,0.003553423,0.9790315,0.0039563957,0.002930111,0.0038931558,0.006635428
+i was rockclimbing and absailing felt ok,4,label_4,1,label_1,False,0.92356837,0.8873002,0.3698767,0.022303287,0.92356837,0.0051388973,0.036268156,0.005572776,0.007148601
+i feel sort of like im writing for the audience which is my friends list more than i am for myself,4,label_4,1,label_1,False,0.77941555,0.68080664,0.76405543,0.09308791,0.77941555,0.023290519,0.098608896,0.0033251445,0.0022719847
+when a friend of mine discussed with me,4,label_4,1,label_1,False,0.758863,0.5846739,0.7604,0.034602664,0.758863,0.026558122,0.1741891,0.002890729,0.0028963804
+my first public appearance in front of a rathe big audience,4,label_4,1,label_1,False,0.7307137,0.5719123,0.88271266,0.011008957,0.7307137,0.0036445777,0.047061384,0.15880144,0.04876986
+when i was told that my daughter,4,label_4,1,label_1,False,0.64501995,0.45509577,1.0390141,0.1899242,0.64501995,0.026069999,0.117066056,0.01767433,0.0042454326
+i had a driver licence but i didnt drive for a long time,4,label_4,1,label_1,False,0.45788944,0.21753936,1.3120066,0.24035008,0.45788944,0.0058776615,0.18828483,0.10009503,0.007502975
+that if ever i was really naughty i would be sent away from my mum and dad to another family i was fostered from age and didnt get to mum and dad until i was and then legally adopted at,4,label_4,1,label_1,False,0.43477434,0.20454293,1.4397931,0.2302314,0.43477434,0.12801799,0.10563948,0.100041874,0.0012948837
+in,4,label_4,1,label_1,False,0.43407333,0.099301934,1.3032084,0.13645393,0.43407333,0.016913231,0.3347714,0.06474409,0.013044032

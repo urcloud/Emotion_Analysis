@@ -1,0 +1,2 @@
+accuracy,macro_precision,macro_recall,macro_f1,weighted_precision,weighted_recall,weighted_f1,loss,inference_seconds,inference_samples_per_second,model,best_epoch,best_val_macro_f1,total_params,trainable_params,training_seconds_this_session
+0.9431107030831613,0.9216053618253611,0.910187041775156,0.9081117073518481,0.9491660751391211,0.9431107030831613,0.9432412702532286,0.0870831127228965,51.43140661700454,1270.7216134818284,deberta,3,0.9095811860714308,184426758,184426758,26722.97044592

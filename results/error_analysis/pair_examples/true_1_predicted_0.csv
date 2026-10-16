@@ -1,0 +1,9 @@
+text,true_label,true_class,predicted_label,predicted_class,correct,confidence,top2_margin,prediction_entropy,prob_label_0,prob_label_1,prob_label_2,prob_label_3,prob_label_4,prob_label_5
+i keep telling her that other people especially the male variety can almost feel if you have an aire of confidence about how you look and many find that trait more atttractive than flawless beauty,1,label_1,0,label_0,False,0.88603705,0.83626944,0.505236,0.88603705,0.049767602,0.0055974196,0.031639043,0.0050519104,0.021907032
+im still hungry but not feeling like wheatbix which i so felt like before yummushysoggy all because of my mother and her so delicious chocolate block,1,label_1,0,label_0,False,0.84726757,0.73170304,0.55820495,0.84726757,0.11556453,0.008893992,0.0119564915,0.0021290767,0.014188289
+i still went to bed feeling pretty doom and gloom y,1,label_1,0,label_0,False,0.7892601,0.61622095,0.657131,0.7892601,0.17303914,0.019855453,0.010534859,0.0038869288,0.0034235094
+when a cousin of mine was discharged from the hospital after a long illness i had thought that this illness would never end,1,label_1,0,label_0,False,0.7401582,0.52264607,0.7443697,0.7401582,0.21751212,0.014838065,0.010755515,0.011778066,0.0049580103
+my mother,1,label_1,0,label_0,False,0.68903804,0.4683777,0.8967647,0.68903804,0.042475164,0.0073756725,0.22066034,0.038910843,0.0015399974
+i had a very close friend who went to canada after her fb,1,label_1,0,label_0,False,0.63576967,0.3401093,0.8792547,0.63576967,0.054825354,0.004709411,0.29566038,0.0075256177,0.0015096344
+this week i was phoned by an old friend with whom i lost contact a few years ago,1,label_1,0,label_0,False,0.51390773,0.2619773,1.1358736,0.51390773,0.20784037,0.011232389,0.25193045,0.012909478,0.0021796254
+letting jesus take control of my emotions ie,1,label_1,0,label_0,False,0.39595443,0.13064191,1.4121488,0.39595443,0.13249865,0.03397866,0.1709644,0.26531252,0.0012913822

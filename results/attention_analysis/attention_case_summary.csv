@@ -1,0 +1,13 @@
+﻿case_id,text,true_label,saved_predicted_label,model_predicted_label,model_confidence,prediction_matches_saved,case_type,token_count
+1,i feel most passionate about that arouse my emotions seem to be the things i need to learn something about my emotion tells me there is a need to grow in some direction,1,2,2,0.6145631074905396,True,misclassified,34
+2,i do realize is that i feel all of this stress and pressure and these inadequacies but yet and still maybe somebody has glanced at my facebook page and admired my successes,1,2,2,0.6185027360916138,True,misclassified,35
+3,i started feeling a bit strange almost as soon as i came back to it,4,5,5,0.5798232555389404,True,misclassified,15
+4,i feel like my prayers have all been some variation of lord life on earth can be so weird,4,5,5,0.5823653936386108,True,misclassified,19
+5,some colleagues decided to go out on a saturday not inviting me to decide either the place nor the time,0,3,3,0.8689344525337219,True,misclassified,20
+6,im feeling stressed out overwhelmed unloved or angry just reading about how others practice self care or new ideas for practicing self care can calm me down and remind me that i can practice self care anytime,0,3,3,0.5630252361297607,True,misclassified,39
+7,i have no real clear memories of those years no strong feelings of happiness no desire of falling in love and no emotional experiences at all,0,0,0,0.9675154089927673,True,correct,26
+8,i am feeling fine but sometimes i get little bit the feelings what other supplements i can take to avoid these feelings,1,1,1,0.9827553629875183,True,correct,22
+9,i know i m not there but if i think about michael for too long and allow myself to feel his tender love for me once again,2,2,2,0.9858339428901672,True,correct,27
+10,i am feeling resentful and pessimistic instead,3,3,3,0.9917038679122925,True,correct,12
+11,i am really not expecting it somehow it made me feel shy but then it s been a while part,4,4,4,0.9870376586914062,True,correct,20
+12,i could get fucking stuffed in fucking chocolate without feeling weird and fat do you have troubles sleeping at night,5,5,5,0.5789523720741272,True,correct,20

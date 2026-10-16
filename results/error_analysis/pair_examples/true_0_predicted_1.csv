@@ -1,0 +1,16 @@
+text,true_label,true_class,predicted_label,predicted_class,correct,confidence,top2_margin,prediction_entropy,prob_label_0,prob_label_1,prob_label_2,prob_label_3,prob_label_4,prob_label_5
+i feel a little bit relieved,0,label_0,1,label_1,False,0.9817509,0.9768757,0.11974599,0.0018915271,0.9817509,0.0048752036,0.0033246002,0.004223259,0.0039345887
+when i got a message that my child was not feeling well,0,label_0,1,label_1,False,0.9649049,0.9514289,0.20184559,0.010776854,0.9649049,0.0051230416,0.013476014,0.002736816,0.002982413
+when i was told a friends baby had been born with only partial sight this was her first child and she was not young the mother that is,0,label_0,1,label_1,False,0.85182,0.772743,0.601922,0.079077,0.85182,0.020432988,0.03389868,0.011193621,0.0035776957
+i have a very close friend who lives in another city and we have been writing to each other for a long time the last time i went to her city,0,label_0,1,label_1,False,0.6670161,0.46517074,0.9692969,0.20184533,0.6670161,0.06955181,0.05710013,0.0025909715,0.0018955953
+watching a football game this remindes me of the time when my father was still alive and when we watched football games on tv together,0,label_0,1,label_1,False,0.5898809,0.36201692,1.1247077,0.118676946,0.5898809,0.006180053,0.22786397,0.046477392,0.01092073
+my boyfriend with whom i had a longlasting relationship,0,label_0,1,label_1,False,0.5845761,0.33945647,1.0864377,0.2451196,0.5845761,0.036265854,0.124950565,0.006852392,0.002235535
+my boyfriend with whom i had a longlasting relationship,0,label_0,1,label_1,False,0.5845761,0.33945647,1.0864377,0.2451196,0.5845761,0.036265854,0.124950565,0.006852392,0.002235535
+when i read the diary of the girl with whom i was living,0,label_0,1,label_1,False,0.5060513,0.27661568,1.2007084,0.22943561,0.5060513,0.03929735,0.21260811,0.009741964,0.002865692
+in,0,label_0,1,label_1,False,0.43407333,0.099301934,1.3032084,0.13645393,0.43407333,0.016913231,0.3347714,0.06474409,0.013044032
+after the fact that made me ashamed i felt sadness,0,label_0,1,label_1,False,0.42973644,0.024456382,1.1495259,0.40528005,0.42973644,0.023868201,0.12641111,0.011351876,0.0033523326
+i received a letter from my grandmother she has obviusly suffered a lot from my grandfathers suffering health she mentioned things she had gotten him and he would never use,0,label_0,1,label_1,False,0.39641887,0.01815331,1.2312994,0.37826556,0.39641887,0.079404995,0.14329326,0.001758573,0.00085873564
+it was mid may,0,label_0,1,label_1,False,0.39261386,0.050504208,1.3562647,0.09427262,0.39261386,0.012694716,0.14205652,0.34210965,0.016252654
+when a friend,0,label_0,1,label_1,False,0.36445272,0.037759423,1.2373409,0.27429855,0.36445272,0.018987995,0.3266933,0.011332715,0.004234726
+last year,0,label_0,1,label_1,False,0.35969964,0.0055766106,1.3516955,0.14697313,0.35969964,0.006182933,0.35412303,0.123341486,0.009679739
+when i was about to write my junior certificate exams,0,label_0,1,label_1,False,0.31908414,0.0067822337,1.3195943,0.30239794,0.31908414,0.0043515535,0.046955254,0.3123019,0.014909197

@@ -1,0 +1,2 @@
+model,model_name,best_epoch,best_val_macro_f1,test_loss,accuracy,macro_precision,macro_recall,macro_f1,weighted_precision,weighted_recall,weighted_f1,training_time_sec,inference_time_sec,total_parameters,trainable_parameters,max_length,learning_rate,batch_size,gradient_accumulation_steps,epochs
+BERT,google-bert/bert-base-uncased,2,0.9178845539754383,0.08915567754305202,0.9426975747838727,0.8926031218139853,0.9542211286646061,0.9173081627191079,0.9515329983192126,0.9426975747838727,0.9444414171242843,1610.9790968470002,54.54878313900008,109486854,109486854,128,2e-05,16,4,3
