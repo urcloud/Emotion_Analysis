@@ -1,0 +1,12 @@
+{
+  "loss_name": "focal",
+  "best_epoch": 3,
+  "best_val_macro_f1": 0.9182996064326455,
+  "training_minutes": 27.07796537254993,
+  "checkpoint_path": "results/optimization/loss_comparison/focal/best.pt",
+  "learning_rate": 2e-05,
+  "max_length": 128,
+  "batch_size": 16,
+  "grad_accum_steps": 4,
+  "focal_gamma": 2.0
+}

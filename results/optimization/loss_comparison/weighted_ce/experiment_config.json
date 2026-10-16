@@ -1,0 +1,12 @@
+{
+  "loss_name": "weighted_ce",
+  "best_epoch": 3,
+  "best_val_macro_f1": 0.9182477146312875,
+  "training_minutes": 26.688134027949975,
+  "checkpoint_path": "results/optimization/loss_comparison/weighted_ce/best.pt",
+  "learning_rate": 2e-05,
+  "max_length": 128,
+  "batch_size": 16,
+  "grad_accum_steps": 4,
+  "focal_gamma": null
+}

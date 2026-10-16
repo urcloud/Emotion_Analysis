@@ -1,0 +1,7 @@
+{
+  "learning_rate": 3e-05,
+  "best_epoch": 3,
+  "best_validation_macro_f1": 0.9180529160646032,
+  "training_minutes": 26.29603548983347,
+  "output_dir": "results/optimization/learning_rate_comparison/lr_3e-05"
+}

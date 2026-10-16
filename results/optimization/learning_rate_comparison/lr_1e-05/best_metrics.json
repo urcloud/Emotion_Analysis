@@ -1,0 +1,14 @@
+{
+  "learning_rate": 1e-05,
+  "epoch": 3,
+  "train_loss": 0.027351622836882566,
+  "validation_loss": 0.029567276038407024,
+  "accuracy": 0.9429243985203755,
+  "macro_precision": 0.8919265895752618,
+  "macro_recall": 0.956615497830141,
+  "macro_f1": 0.9181424166796193,
+  "weighted_precision": 0.9518713007668141,
+  "weighted_recall": 0.9429243985203755,
+  "weighted_f1": 0.9447837652539907,
+  "epoch_minutes": 9.01048346526671
+}

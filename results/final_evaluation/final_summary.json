@@ -1,0 +1,34 @@
+{
+    "selected_model": "bert-base-uncased",
+    "selection_basis": "Validation Macro F1 and efficiency comparison",
+    "test_evaluation_completed": true,
+    "test_set_used_for_hyperparameter_tuning": false,
+    "metrics": {
+        "model": "bert-base-uncased",
+        "checkpoint": "/mnt/e/university/grade4_semester2/딥러닝개론/팀프로젝트/Emotion_Analysis/results/augmentation/wordnet_comparison/baseline/best_model.safetensors",
+        "test_samples": 65355,
+        "max_length": 128,
+        "batch_size": 32,
+        "accuracy": 0.9428046821207253,
+        "macro_precision": 0.8919826239475142,
+        "macro_recall": 0.9558561717276488,
+        "macro_f1": 0.9177236250900118,
+        "weighted_f1": 0.9446834365148499,
+        "mean_prediction_confidence": 0.9390472173690796,
+        "correct_predictions": 61617,
+        "incorrect_predictions": 3738,
+        "error_rate": 0.05719531787927473,
+        "inference_seconds": 27.448039926999627,
+        "samples_per_second": 2381.04433590949
+    },
+    "output_files": [
+        "final_metrics.json",
+        "classification_report.csv",
+        "per_class_metrics.csv",
+        "confusion_matrix.csv",
+        "confusion_matrix.png",
+        "test_predictions.csv",
+        "test_misclassified_examples.csv",
+        "test_confusion_pairs.csv"
+    ]
+}

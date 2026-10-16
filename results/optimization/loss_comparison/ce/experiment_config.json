@@ -1,0 +1,12 @@
+{
+  "loss_name": "ce",
+  "best_epoch": 1,
+  "best_val_macro_f1": 0.9104471574765517,
+  "training_minutes": 28.289895708316667,
+  "checkpoint_path": "results/optimization/loss_comparison/ce/best.pt",
+  "learning_rate": 2e-05,
+  "max_length": 128,
+  "batch_size": 16,
+  "grad_accum_steps": 4,
+  "focal_gamma": null
+}

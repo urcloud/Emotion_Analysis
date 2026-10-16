@@ -1,0 +1,29 @@
+{
+  "seed": 42,
+  "model_name": "google-bert/bert-base-uncased",
+  "num_classes": 6,
+  "max_length": 128,
+  "batch_size": 16,
+  "gradient_accumulation_steps": 4,
+  "effective_batch_size_approx": 64,
+  "epochs": 3,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "focal_gamma": 2.0,
+  "learning_rates": [
+    1e-05,
+    2e-05,
+    3e-05
+  ],
+  "class_weights_from_train_only": [
+    0.5733274221420288,
+    0.492927610874176,
+    2.0086371898651123,
+    1.2124948501586914,
+    1.4523224830627441,
+    4.630649089813232
+  ],
+  "train_rows": 305345,
+  "validation_rows": 65422,
+  "test_split_loaded": false
+}

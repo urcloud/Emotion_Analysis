@@ -1,0 +1,14 @@
+{
+    "experiment": "Original + WordNet Augmentation",
+    "train_samples": 364874,
+    "best_epoch": 3,
+    "best_val_macro_f1": 0.9174957654482024,
+    "best_val_accuracy": 0.9423129834000795,
+    "best_val_macro_precision": 0.8912121402640633,
+    "best_val_macro_recall": 0.9561854475698318,
+    "best_val_weighted_f1": 0.9442003663246711,
+    "best_val_loss": 0.030643658477576628,
+    "total_training_time_min": 30.97817272345225,
+    "mean_epoch_time_min": 10.223451379934948,
+    "best_checkpoint": "results/augmentation/wordnet_comparison/wordnet_augmented/best_model.safetensors"
+}
