@@ -1,6 +1,22 @@
+
 # Python cache
 __pycache__/
 *.py[cod]
+
+# Model weights and checkpoints
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.weights
+*.onnx
+
+# Training outputs
+checkpoints/
+saved_models/
+model_output/
+runs/
+wandb/
 
 # Virtual environments
 .venv/
